@@ -1,0 +1,15 @@
+{
+  "name": "trash_pandamoniam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel run src/index.html",
+    "build": "parecel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
